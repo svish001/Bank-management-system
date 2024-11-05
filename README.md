@@ -4,6 +4,30 @@ A Java-based Bank Management System
  Overview
 The Bank Management System is a comprehensive Java-based banking application that provides dual interfaces for both administrators and clients. This system simulates a real banking environment where clients can manage their accounts and transactions, while administrators can oversee branch operations and manage customer data. The application features real-time transaction processing, secure database integration, and a user-friendly interface for both user types.
 
+[Previous sections remain the same]
+
+# Project Demo
+A complete video demonstration of the Bank Management System is available to help users understand the functionality and features. This demo walks through both client and admin interfaces, showing real-time usage of the system.
+
+📺 Watch Demo**: [Bank Management System Demo Video](https://drive.google.com/drive/folders/1cVM0KBE2pqvqiZQi2ejXHLdVJLiXVgU6?usp=sharing)
+
+The demo video covers:
+- System setup and installation
+- Client interface walkthrough
+- Admin dashboard demonstration
+- Account creation process
+- Transaction demonstrations
+- Report generation
+- Other key features
+
+This video is particularly helpful for:
+- First-time users
+- Setup verification
+- Understanding the complete workflow
+- Feature exploration
+
+[Rest of the README remains the same]
+
  Features
 
  Client Portal
@@ -155,7 +179,6 @@ git clone https://github.com/svish001/Bank-management-system.git
    - Add MySQL Connector/J to project libraries
    - Include JCalendar library in the project structure
 
-[Rest of the README remains the same]
 2. Open the project in IntelliJ IDEA
 
 3. Set up database connection:
