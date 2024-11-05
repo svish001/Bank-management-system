@@ -1,0 +1,103 @@
+Transaction Summary Report
+Generated on: Thu Oct 31 13:08:32 EDT 2024
+----------------------------------------
+Date: Tue Oct 22 13:08:19 EDT 2024
+Card: 1409963045355592
+Type: Withdrawl
+Amount: Rs. 2000
+----------------------------------------
+Date: Tue Oct 22 13:07:59 EDT 2024
+Card: 1409963045355592
+Type: withdrawl
+Amount: Rs. 100
+----------------------------------------
+Date: Tue Oct 22 13:07:56 EDT 2024
+Card: 1409963045355592
+Type: Deposit
+Amount: Rs. 2000
+----------------------------------------
+Date: Tue Oct 22 13:07:20 EDT 2024
+Card: 1409963045355592
+Type: Deposit
+Amount: Rs. 2000
+----------------------------------------
+Date: Sat Oct 19 17:49:22 EDT 2024
+Card: 1409962959710811
+Type: Deposit
+Amount: Rs. 120
+----------------------------------------
+Date: Sat Oct 19 17:49:08 EDT 2024
+Card: 1409962959710811
+Type: withdrawl
+Amount: Rs. 500
+----------------------------------------
+Date: Sat Oct 19 17:48:41 EDT 2024
+Card: 1409962959710811
+Type: Deposit
+Amount: Rs. 900
+----------------------------------------
+Date: Sat Oct 19 16:17:29 EDT 2024
+Card: 1409963078313687
+Type: Deposit
+Amount: Rs. 100
+----------------------------------------
+Date: Sat Oct 19 16:17:08 EDT 2024
+Card: 1409963078313687
+Type: Withdrawl
+Amount: Rs. 345
+----------------------------------------
+Date: Sat Oct 19 16:17:02 EDT 2024
+Card: 1409963078313687
+Type: withdrawl
+Amount: Rs. 500
+----------------------------------------
+Date: Sat Oct 19 16:16:24 EDT 2024
+Card: 1409963078313687
+Type: Deposit
+Amount: Rs. 900
+----------------------------------------
+Date: Fri Oct 18 13:47:05 EDT 2024
+Card: 1409963056117606
+Type: withdrawl
+Amount: Rs. 100
+----------------------------------------
+Date: Fri Oct 18 13:46:46 EDT 2024
+Card: 1409963056117606
+Type: Withdrawl
+Amount: Rs. 797
+----------------------------------------
+Date: Fri Oct 18 13:46:40 EDT 2024
+Card: 1409963056117606
+Type: Deposit
+Amount: Rs. 6868
+----------------------------------------
+Date: Fri Oct 18 13:44:51 EDT 2024
+Card: 1409963056117606
+Type: Deposit
+Amount: Rs. 1
+----------------------------------------
+Date: Fri Oct 18 12:07:34 EDT 2024
+Card: 1409963082772367
+Type: Deposit
+Amount: Rs. 786876
+----------------------------------------
+Date: Fri Oct 18 11:42:25 EDT 2024
+Card: 1409962929474895
+Type: Withdrawl
+Amount: Rs. 4999
+----------------------------------------
+Date: Fri Oct 18 11:41:14 EDT 2024
+Card: 1409962929474895
+Type: Deposit
+Amount: Rs. 5000
+----------------------------------------
+Date: Fri Oct 18 11:30:22 EDT 2024
+Card: 1409963078313687
+Type: Deposit
+Amount: Rs. 1021s
+----------------------------------------
+Date: Fri Oct 18 10:59:44 EDT 2024
+Card: 1409963078313687
+Type: Deposit
+Amount: Rs. 10000
+----------------------------------------
