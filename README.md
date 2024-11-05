@@ -9,7 +9,7 @@ The Bank Management System is a comprehensive Java-based banking application tha
 # Project Demo
 A complete video demonstration of the Bank Management System is available to help users understand the functionality and features. This demo walks through both client and admin interfaces, showing real-time usage of the system.
 
-📺 Watch Demo**: [Bank Management System Demo Video](https://drive.google.com/drive/folders/1cVM0KBE2pqvqiZQi2ejXHLdVJLiXVgU6?usp=sharing)
+📺 Watch Demo: [Bank Management System Demo Video](https://drive.google.com/drive/folders/1cVM0KBE2pqvqiZQi2ejXHLdVJLiXVgU6?usp=sharing)
 
 The demo video covers:
 - System setup and installation
