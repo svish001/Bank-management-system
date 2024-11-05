@@ -4,7 +4,6 @@ A Java-based Bank Management System
  Overview
 The Bank Management System is a comprehensive Java-based banking application that provides dual interfaces for both administrators and clients. This system simulates a real banking environment where clients can manage their accounts and transactions, while administrators can oversee branch operations and manage customer data. The application features real-time transaction processing, secure database integration, and a user-friendly interface for both user types.
 
-[Previous sections remain the same]
 
 # Project Demo
 A complete video demonstration of the Bank Management System is available to help users understand the functionality and features. This demo walks through both client and admin interfaces, showing real-time usage of the system.
@@ -26,9 +25,8 @@ This video is particularly helpful for:
 - Understanding the complete workflow
 - Feature exploration
 
-[Rest of the README remains the same]
 
- Features
+ # Features
 
  Client Portal
 - Account Management
@@ -71,7 +69,7 @@ This video is particularly helpful for:
 - `database/` - Database connectivity and queries
 - `utils/` - Utility classes and helper functions
 
- Database Setup
+ # Database Setup
 
 1. Open MySQL Workbench and execute the following commands:
 
@@ -142,7 +140,7 @@ CREATE TABLE admin_users (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
- Prerequisites
+ # Prerequisites
 1. OpenJDK 23 (Not included in repository)
    - Download and install from: https://openjdk.org/projects/jdk/23/
    - This is a critical requirement for running the application
@@ -154,7 +152,7 @@ CREATE TABLE admin_users (
    - MySQL Connector/J
    - JCalendar Library
 
- Installation & Setup
+ # Installation & Setup
 
 1. Install OpenJDK 23:
    - Download OpenJDK 23 from https://openjdk.org/projects/jdk/23/
@@ -190,7 +188,7 @@ git clone https://github.com/svish001/Bank-management-system.git
    - Add MySQL Connector/J to project libraries
    - Include JCalendar library in the project structure
 
- Running the Application
+ # Running the Application
 
 1. Start MySQL server and ensure database connectivity
 
@@ -205,7 +203,7 @@ git clone https://github.com/svish001/Bank-management-system.git
    - Use existing card number and PIN
    - Admin users can log in with their designated credentials
 
- Usage Guidelines
+ # Usage Guidelines
 
  For Clients
 1. Account Creation:
